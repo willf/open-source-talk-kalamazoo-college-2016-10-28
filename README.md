@@ -11,7 +11,7 @@ October 28, 2016
 ## Git Concept Basics
 
 - [ ] Git gets easier once you understand branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space – [Isaac Wolkerstorfer](https://twitter.com/agnoster/status/44636629423497217)
-- [ ] (Can be) Distributed
+- [ ] Distributed
 - [ ] A repository (repo) is the "code", plus history (including branches)
 - [ ] Branches are cheap, real cheap
 - [ ] Most basic flow is: 
