@@ -28,7 +28,7 @@ October 28, 2016
 - [ ] [Illustrated Guide to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [ ] Two models
       - Fork & Pull Model (often used in open source contributions)
-        - May need to keep up with the "upstream" repo [How to do this](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+        - May need to keep up with the "upstream" repo 
       - Shared Repository Model (often used for teams)
 
 ## Example
@@ -44,5 +44,18 @@ October 28, 2016
        - [ ] Make changes/add/commit
        - [ ] Make pull request
 
+### Ways to Merge
+ - [ ] Standard (3 way) merge
+ - [ ] Squashing before merging
+ - [ ] Rebasing before merging 
+
 ## More resources
-- [ ] `hub` command (Wraps `git` for GitHub-based repository)
+- [ ] [`hub`](https://github.com/github/hub) command (Wraps `git` for GitHub-based repository)
+- [ ] [GitHub Guides](https://guides.github.com/), including [GitHub Flow](https://guides.github.com/introduction/flow/)
+- [ ] [Keeping up with upstream repos](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+
+## More magic
+
+- [ ] GitHub Issues [Example](https://github.com/willf/segment/issues)
+- [ ] GitHub Projects [Example](https://github.com/willf/segment/issues)
+- [ ] GitHub Pages
